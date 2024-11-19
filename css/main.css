@@ -434,6 +434,16 @@ nav ul li a:hover {
     margin-bottom: 40px;
 }
 
+.collections-section h2 a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.collections-section h2 a:hover {
+    color: rgba(255, 255, 255, 0.8);
+}
+
 #collections a {
     text-decoration: none;
     color: inherit;
